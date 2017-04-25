@@ -1,4 +1,4 @@
-# FARS: Accident Data Analysis package
+# FARS Package
 
 [![Travis-CI Build Status](https://travis-ci.org/agusdon/fars-9.svg?branch=master)](https://travis-ci.org/agusdon/fars-9)
 
